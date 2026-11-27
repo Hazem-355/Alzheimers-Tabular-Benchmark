@@ -112,8 +112,8 @@ Run order when using the separate notebooks: I, II, III, IV. Notebook IV loads `
 Python 3.10 or later is recommended. A GPU is optional; it is used for the SNN and the pretrained tabular models when available.
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/Hazem-355/Alzheimers-Tabular-Benchmark/
+cd Alzheimers-Tabular-Benchmark
 
 pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels \
             xgboost lightgbm tensorflow torch snntorch tabpfn tabicl \
