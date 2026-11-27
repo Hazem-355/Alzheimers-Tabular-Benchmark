@@ -78,7 +78,6 @@ The full table with all 18 models is in the report and in the saved result files
 |-- README.md
 ```
 
-Adjust the file names above to match the exact names of the files you upload.
 
 ---
 
